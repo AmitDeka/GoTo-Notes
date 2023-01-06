@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "369467527094",
+    "project_id": "gotonotes-v1-29-12-22",
+    "storage_bucket": "gotonotes-v1-29-12-22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369467527094:android:ffb809c18774fe1c45bb17",
+        "android_client_info": {
+          "package_name": "com.android.gotonotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369467527094-jqg21ji9nffdqd28tkndf1mjdvcpafsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOj5-OwWUQwnsoQPdV0dvJZokXIO7JDxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369467527094-jqg21ji9nffdqd28tkndf1mjdvcpafsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

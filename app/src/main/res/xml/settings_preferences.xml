@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/ui">
+
+    <ListPreference
+        app:defaultValue="@string/dark_mode_def_value"
+        app:entries="@array/dark_mode_entries"
+        app:entryValues="@array/dark_mode_values"
+        app:key="@string/dark_mode"
+        app:title="@string/dark_mode"
+        app:useSimpleSummaryProvider="true" />
+
+</PreferenceCategory>
+
+<!--        <ListPreference-->
+<!--            app:defaultValue="grid"-->
+<!--            app:entries="@array/notes_grid_entries"-->
+<!--            app:entryValues="@array/notes_grid_values"-->
+<!--            app:key="notes_grid"-->
+<!--            app:title="Notes Style"-->
+<!--            app:useSimpleSummaryProvider="true" />-->
+
+<!--        <SwitchPreference-->
+<!--            app:defaultValue="false"-->
+<!--            app:key="hour_format"-->
+<!--            app:title="24-Hour Time" />-->
+
+<!--    </PreferenceCategory>-->
+</androidx.preference.PreferenceScreen>

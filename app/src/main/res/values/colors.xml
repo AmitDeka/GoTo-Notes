@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="purple_200">#FFBB86FC</color>-->
+<!--    <color name="purple_500">#FF6200EE</color>-->
+<!--    <color name="purple_700">#FF3700B3</color>-->
+<!--    <color name="teal_200">#FF03DAC5</color>-->
+<!--    <color name="teal_700">#FF018786</color>-->
+<!--    <color name="black">#FF000000</color>-->
+<!--    <color name="white">#FFFFFFFF</color>-->
+    <color name="Transparent">#00FFFFFF</color>
+
+
+
+    <!--Light theme-->
+    <color name="color_light">#fdfaf6</color>
+<!--    <color name="text_color_light">#191919</color>-->
+    <color name="accent_color_light">#064420</color>
+    <color name="accent_color_20p_dark_variant_light">#064420</color>
+    <color name="accent_shadow_color_light">#e4efe7</color>
+
+    <!--Dark theme-->
+<!--    <color name="color_dark">#191919</color>-->
+<!--    <color name="text_color_dark">#fdfaf6</color>-->
+    <color name="accent_color_dark">#1f5736</color>
+    <color name="accent_color_20p_light_variant_dark">#4c795e</color>
+    <color name="accent_shadow_color_dark">#e4efe7</color>
+
+<!--    Random Color -->
+    <color name="random_color_red">#ef4444</color>
+    <color name="random_color_orange">#f97316</color>
+    <color name="random_color_amber">#f59e0b</color>
+    <color name="random_color_yellow">#eab308</color>
+    <color name="random_color_lime">#84cc16</color>
+    <color name="random_color_green">#22c55e</color>
+    <color name="random_color_emerald">#10b981</color>
+    <color name="random_color_teal">#14b8a6</color>
+    <color name="random_color_cyan">#06b6d4</color>
+    <color name="random_color_sky">#0ea5e9</color>
+    <color name="random_color_blue">#3b82f6</color>
+    <color name="random_color_indigo">#6366f1</color>
+    <color name="random_color_violet">#8b5cf6</color>
+    <color name="random_color_purple">#a855f7</color>
+    <color name="random_color_fuchsia">#d946ef</color>
+    <color name="random_color_pink">#ec4899</color>
+    <color name="random_color_rose">#f43f5e</color>
+</resources>
